@@ -1,43 +1,69 @@
-# software-development
+# ✅ 5-Day Git & GitHub Mastery Course (Completed)
 
-WEEK 2: DAILY BREAKDOWN
+[![Course Status](https://img.shields.io/badge/Status-Completed-success.svg)](README.md)
+[![Course Duration](https://img.shields.io/badge/Duration-5%20Days-green.svg)](README.md)
+[![Final Deliverable](https://img.shields.io/badge/Deliverable-README.md-blue.svg)](README.md)
 
-DAY 1 – Git Basics & Local Version Control
-Topics: git init, git status, git add, git commit, git log, commit messages
-Lab: Initialize a Git repo and make 3 meaningful commits
-Challenge: Undo the last commit without losing changes
+---
 
-DAY 2 – Branching, Merging & Conflict Resolution
-Topics: git branch, git checkout, git switch, merge, resolving conflicts
-Lab: Create a feature branch, edit a file, merge into main
-Challenge: Resolve an intentional merge conflict
+## 🏆 Course Completion Overview
 
-DAY 3 – GitHub Essentials (Remote Repositories)
-Topics: git remote add, git push, git pull, cloning, forking, README structure
-Lab: Create a GitHub repo and push local commits
-Challenge: Clone a partner’s repo and run their project
+This intensive **5-day hands-on course** covered everything from foundational Git commands to complex collaboration workflows on GitHub. The curriculum was designed to progressively build skills, culminating in a final project focused on professional project documentation.
 
-DAY 4 – Collaboration Workflows (Pull Requests & Issues)
-Topics: Pull requests, reviewing code, issues, comments, task assignment
-Lab: Fork training repo, make a change, submit a PR
-Challenge: Review a colleague’s PR and request changes
+* **Outcome:** Proficient in local version control, branching, merging, conflict resolution, and collaborative development using GitHub.
+* **Final Project:** A well-structured and professionally documented project using Markdown.
 
-DAY 5 – Documentation & Final Project Setup
-Topics: Markdown basics, project documentation standards, portfolio setup
-Demo: Creating a clean README.md with sections
-Final Lab Task:
+---
 
-Create a repository named linux-week1-project containing:
-Final log analysis command from Week 1
-Explanation in Markdown
-Screenshot showing SSH access
-A structured README.md with overview, steps, and lessons learned
+## 🗓️ Course Curriculum Review
 
-Deliverables (End of Week)
+The following outlines the tasks and challenges completed over the five days:
 
-Deliverable                                              |              Description
-Git repository with full commit history | Evidence of daily Git usage
-Pull Request submitted                           | PR created on the training/demo repo
-PR review                                                   | Review and feedback on a teammate’s PR
-Project README.md                                 | Well-structured documentation              
-Weekly Reflection                                     | “What Git taught me about engineering collaboration”
+### **DAY 1 – Git Basics & Local Version Control**
+
+| Activity | Status | Description |
+| :--- | :--- | :--- |
+| **Core Topics** | Completed | `git init`, `git status`, `git add`, `git commit`, `git log` |
+| **Lab Exercise** | Completed | Initialized a Git repository and made 3 meaningful commits. |
+| **Daily Challenge** | Completed | Successfully undid the last commit without losing the file changes (`git reset --soft HEAD~1`). |
+
+### **DAY 2 – Branching, Merging & Conflict Resolution**
+
+| Activity | Status | Description |
+| :--- | :--- | :--- |
+| **Core Topics** | Completed | `git branch`, `git checkout`/`git switch`, `git merge` |
+| **Lab Exercise** | Completed | Created a feature branch, edited a file, and merged the changes back into `main`. |
+| **Daily Challenge** | Completed | Resolved an intentional merge conflict successfully. |
+
+### **DAY 3 – GitHub Essentials (Remote Repositories)**
+
+| Activity | Status | Description |
+| :--- | :--- | :--- |
+| **Core Topics** | Completed | `git remote add`, `git push`, `git pull`, cloning, forking |
+| **Lab Exercise** | Completed | Created a GitHub repository and pushed local commits to the remote. |
+| **Daily Challenge** | Completed | Cloned a partner’s GitHub repository and ran their project locally. |
+
+### **DAY 4 – Collaboration Workflows (Pull Requests & Issues)**
+
+| Activity | Status | Description |
+| :--- | :--- | :--- |
+| **Core Topics** | Completed | Pull Requests (PRs), Code Review, GitHub Issues, Task Assignment |
+| **Lab Exercise** | Completed | Forked the training repo, made an enhancement, and submitted a formal Pull Request. |
+| **Daily Challenge** | Completed | Reviewed a colleague’s PR and requested necessary changes. |
+
+### **DAY 5 – Documentation & Final Project Setup (Submission)**
+
+| Activity | Status | Description |
+| :--- | :--- | :--- |
+| **Core Topics** | Completed | Markdown basics, project documentation standards, portfolio setup |
+| **Demo Activity** | **Submitted** | **Created a clean, professional, multi-sectioned `README.md` for a final project.** |
+
+---
+
+## 📄 Final Deliverable: The Professional README
+
+The final task focused on creating high-quality, professional project documentation, which is crucial for open-source and professional software development.
+
+> **Deliverable:** The submission for Day 5 is the **professionally documented README.md** itself, demonstrating mastery of Markdown syntax and best practices for project structure (Overview, Features, Installation, Usage, etc.).
+
+---
